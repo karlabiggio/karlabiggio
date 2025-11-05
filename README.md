@@ -3,7 +3,7 @@
 ### 👩‍💻 Multiplatform Application Development Student (DAM)
 
 Passionate about technology, UI design, and building applications that make life easier.  
-Always learning and creating projects to improve my skills 💪
+Always learning and creating projects to improve my skills
 
 ---
 
