@@ -1,16 +1,41 @@
-## Hi there 👋
+# Hi there! I'm Karla 👋
 
-<!--
-**karlabiggio/karlabiggio** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+### 👩‍💻 Multiplatform Application Development Student (DAM)
 
-Here are some ideas to get you started:
+Passionate about technology, UI design, and building applications that make life easier.  
+Always learning and creating projects to improve my skills 💪
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+---
+
+### 🚀 Technologies & Tools
+
+![Java](https://img.shields.io/badge/Java-ED8B00?logo=openjdk&logoColor=fff)
+![Kotlin](https://img.shields.io/badge/Kotlin-7F52FF?logo=kotlin&logoColor=fff)
+![Android](https://img.shields.io/badge/Android-3DDC84?logo=android&logoColor=fff)
+![SQL](https://img.shields.io/badge/SQL-336791?logo=postgresql&logoColor=fff)
+![Git](https://img.shields.io/badge/Git-F05032?logo=git&logoColor=fff)
+![GitHub](https://img.shields.io/badge/GitHub-181717?logo=github&logoColor=fff)
+
+---
+
+### 📊 GitHub Stats
+
+![Stats](https://github-readme-stats.vercel.app/api?username=karlabiggio&show_icons=true&theme=tokyonight)
+![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=karlabiggio&layout=compact&theme=tokyonight)
+
+---
+
+### 🎯 Goals
+
+- Build efficient multiplatform applications 📱💻  
+- Improve my skills in Java, Kotlin & Android Studio  
+- Collaborate on real-world projects and open-source 🚀  
+
+---
+
+### 📫 Contact
+
+📧 Email: **vbkarlai@gmail.com**  
+📩 Portfolio coming soon…
+
+Thanks for visiting my profile! 😊
