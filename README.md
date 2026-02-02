@@ -19,12 +19,6 @@ Always learning and creating projects to improve my skills
 
 ---
 
-### 📊 GitHub Stats
-
-![Stats](https://github-readme-stats.vercel.app/api?username=karlabiggio&show_icons=true&theme=tokyonight)
-![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=karlabiggio&layout=compact&theme=tokyonight)
-
----
 
 ### 🎯 Goals
 
