@@ -1,6 +1,6 @@
 # Hi there! I'm Karla
 
-### 👩‍💻 Androidn developer
+### Android developer
 
 Passionate about technology, UI design, and building applications that make life easier.  
 Always learning and creating projects to improve my skills
