@@ -1,13 +1,13 @@
-# Hi there! I'm Karla 👋
+# Hi there! I'm Karla
 
-### 👩‍💻 Multiplatform Application Development Student (DAM)
+### 👩‍💻 Androidn developer
 
 Passionate about technology, UI design, and building applications that make life easier.  
 Always learning and creating projects to improve my skills
 
 ---
 
-### 🚀 Technologies & Tools
+### Technologies & Tools
 
 ![Java](https://img.shields.io/badge/Java-ED8B00?logo=openjdk&logoColor=fff)
 ![Kotlin](https://img.shields.io/badge/Kotlin-7F52FF?logo=kotlin&logoColor=fff)
@@ -20,17 +20,17 @@ Always learning and creating projects to improve my skills
 ---
 
 
-### 🎯 Goals
+### Goals
 
-- Build efficient multiplatform applications 📱💻  
+- Build efficient multiplatform applications  
 - Improve my skills in Java, Kotlin, Python & Android Studio  
-- Collaborate on real-world projects and open-source 🚀  
+- Collaborate on real-world projects and open-source
 
 ---
 
-### 📫 Contact
+### Contact
 
-📧 Email: **vbkarlai@gmail.com**  
-📩 Portfolio coming soon…
+Email: **vbkarlai@gmail.com**  
+Portfolio coming soon…
 
-Thanks for visiting my profile! 😊
+Thanks for visiting my profile! :)
